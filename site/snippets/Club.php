@@ -16,7 +16,8 @@ $has_error = (!empty($errors) or $error);
 $data = $form_response['data'] ?? [];
 $success = $form_response['id'] ?? false;
 ?>
-
+ 
+ 
 <div class="Club" data-club>
   <div class="Club-outer">
     <div class="Club-inner">
